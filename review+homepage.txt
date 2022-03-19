@@ -1,0 +1,86 @@
+<html>
+    <head> 
+    <style>
+   body {
+     background-image: url('yoyo.jpg');
+     background-repeat:no-repeat;
+     background-attachment:fixed;
+     background-size:cover;
+   }
+   </style>
+ <style>
+   nav{
+     position:sticky;
+     background: #6cb3c098;
+     width: 100%;
+     padding: 10px 0;
+     z-index: 12;
+   }
+   nav .menu{
+     max-width:auto;
+     margin: auto;
+     display:inline-flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 0px 20px;
+   }
+   .menu .logo a{
+     text-decoration:none;
+     color: rgb(255, 255, 255);
+     font-size: 35px;
+   }
+   .menu ul{
+     display:inline-flex;
+   }
+   .menu ul li{
+     list-style:linear-gradient();
+     margin-left: 65px;
+   }
+
+   .menu ul li a{
+     text-decoration:white;
+     color: #fff;
+     font-size: 18px;
+     padding: 8px 15px;
+     border-radius: 5px;
+   
+   }
+   .menu ul li a:hover{
+     background: rgb(0, 0, 0);
+     color: rgb(0, 0, 0);
+   }
+       
+   </style>
+     <body><nav>
+       <div class="menu">
+         <div class="logo">
+           <a href="C:\Users\VISHAL RAJ\Desktop\try.html">Visa Processing</a>
+         </div>
+         <ul>
+           <li><a href="C:\Users\VISHAL RAJ\Desktop\try.html">Covid updates</a></li>
+           <li><a href="C:\Users\VISHAL RAJ\Desktop\try.html">Track my visa</a></li>
+           <li><a href="C:\Users\VISHAL RAJ\Desktop\try.html">Requirements</a></li>
+           <li><a href="C:\Users\VISHAL RAJ\Desktop\try.html">Guidelines</a></li>
+           <li><a href="C:\Users\VISHAL RAJ\Desktop\try.html">Updates</a></li>
+         </ul>
+       </div>
+     </nav>
+     <form>
+       <br>
+       <br>
+       <br>
+       <br>
+      <div align=center>
+      UserName:
+      <input type="text"   size="35" maxlength="35" value=""> <br>
+      <br><br>
+      Enter your password:
+      <input type="text"  size="35" maxlength="35" value=""> <br>
+     <br> <input type="submit" value="Submit"> <br><br> or <br> <br> <br><br> <a href="C:\Users\VISHAL RAJ\Desktop\try.html"> <input type="button" value="Apply fresh"></a>
+      </div>
+      
+      </form>
+     <div class="img"></div>
+     <div class="center">
+       <div class="title"></div>
+       </div></div></body></html>
